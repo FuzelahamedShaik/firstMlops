@@ -1,6 +1,7 @@
 import argparse
 import os
 import pandas as pd
+import yaml
 
 def read_config(config_path):
     with open(config_path) as yaml_file:
