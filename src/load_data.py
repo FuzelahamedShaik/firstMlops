@@ -1,6 +1,5 @@
 import os
 from get_data import read_config, get_data
-import yaml
 import argparse
 import pandas as pd
 
