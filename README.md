@@ -1,7 +1,9 @@
+```bash
 conda create -n firstMlops
-
+```
+```bash
 conda activate firstMlops
-
+```
 template.py file to create dir and files 
 
 git init
@@ -17,4 +19,3 @@ git remote add origin https://github.com/FuzelahamedShaik/firstMlops.git
 git branch -M main
 
 git push -u origin main
-
